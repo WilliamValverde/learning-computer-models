@@ -20,6 +20,8 @@ def division(num1, num2):
     resultado = num1/num2
     return resultado
 
+print("Numero 1: ", num1)
+print("Numero 2", num2)
 print("Suma: ", suma(num1, num2))
 print("Resta: ", resta(num1, num2))
 print("Multiplicacion: ", multiplicacion(num1, num2))
